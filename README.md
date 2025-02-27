@@ -27,6 +27,10 @@ Each meteor isn't just a data point; it's a fragment of the universe with a uniq
 
 This project isn't just about visualizing data—it's about bridging the gap between numbers and the awe-inspiring reality they represent. Through interactive charts and maps, we aim to make the information accessible and intriguing, inviting viewers to explore and discover the fascinating world of meteor impacts.
 
+![Neteor Strike by Size](https://github.com/user-attachments/assets/9a7f7cdb-0d24-488e-be59-d52afa55d491)
+
+![Meteor Strike Heat Map](https://github.com/user-attachments/assets/f692f867-c2de-49f0-8954-150ddbbf602d)
+
 
 ---
 ### **Data Sources**
