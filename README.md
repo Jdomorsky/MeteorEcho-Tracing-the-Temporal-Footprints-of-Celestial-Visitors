@@ -1,5 +1,5 @@
 ---
-# **Meteor Landings Analysis**
+# **Meteorite Landings Analysis**
 ---
 ## **Table of Contents**
 ---
