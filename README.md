@@ -86,7 +86,7 @@ For more detailed information, metadata definitions, and to explore additional r
 
 In the initial data preparation phase, I performed the following tasks:
 1. Data Loading and Inspection.
-2. Handling Missing Values,
+2. Handling Missing Values.
 3. Data Cleaning and Formatting.
 
 ---
