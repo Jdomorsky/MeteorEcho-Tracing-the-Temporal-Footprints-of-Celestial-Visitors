@@ -180,7 +180,7 @@ Our analysis of NASA’s meteorite dataset reveals several compelling trends whe
     - Human Influence: The clustering of finds in certain regions might not only reflect the natural occurrence of meteorites but also the likelihood of their detection. As human migration patterns evolve and population densities increase in particular areas, there is a greater chance of recovering and recording meteorites.
     - This interplay between natural events and anthropogenic factors emphasizes that our understanding of meteorite distribution is partially shaped by our own movement and settlement patterns over time.
 
-**Conclusion:**
+**Conclusion**:
 
 - In summary, our results indicate that:
     - The increasing frequency of meteorite finds over the centuries is strongly influenced by both population growth and technological advancement.
