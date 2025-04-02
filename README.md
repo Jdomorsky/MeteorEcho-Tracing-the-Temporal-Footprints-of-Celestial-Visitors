@@ -195,7 +195,7 @@ These insights enhance our understanding of both the extraterrestrial events and
 
 Based on our analysis of meteorite data—focusing on temporal trends, geographic distributions, and spatio-temporal patterns—we propose several actionable recommendations for future research, data collection, and analysis:
 
-**Enhance Data Quality and Cleaning Processes:**
+**Enhance Data Quality and Cleaning Processes**:
 - Standardize Data Collection Protocols: Encourage the adoption of uniform data recording procedures across meteorite observation networks. This includes standardizing key metadata (e.g., exact location, mass, classification) to reduce inconsistencies across centuries of records.
 - Develop Automated Cleaning Tools: Implement automated data cleaning pipelines—preferably integrated with Excel, Python scripts, or tools like Tableau Prep—to promptly identify and correct errors. Routine data audits can further ensure that the dataset remains reliable and accurate.
 
