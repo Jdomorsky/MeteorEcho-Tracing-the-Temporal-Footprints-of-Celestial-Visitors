@@ -161,7 +161,7 @@ Our analysis of NASA’s meteorite dataset reveals several compelling trends whe
 
 **Geographic Distributions:**
 
-- Finding: Meteorite finds are not uniformly distributed across the globe.
+- **Finding**: Meteorite finds are not uniformly distributed across the globe.
     - The highest concentration of finds is located near the equator.
     - However, these equatorial meteorites generally have lower masses compared to those found elsewhere.
     - The most massive meteorites are predominantly discovered in regions lying between the equator and the polar zones, with notable examples in Northern Greenland, Argentina, and Namibia.
