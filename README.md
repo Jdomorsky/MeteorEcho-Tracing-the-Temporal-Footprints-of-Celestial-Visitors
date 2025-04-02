@@ -173,9 +173,9 @@ Our analysis of NASA’s meteorite dataset reveals several compelling trends whe
 
 **Temporal-Spatial Patterns:**
 
-- Finding: Across every geographic region examined, the frequency of meteorite finds has increased over time. Intriguingly, the spatial distribution of these findings also appears to correlate with human migration patterns and population growth.
+- **Finding**: Across every geographic region examined, the frequency of meteorite finds has increased over time. Intriguingly, the spatial distribution of these findings also appears to correlate with human migration patterns and population growth.
 
-**Discussion**:
+- **Discussion**:
     - Steady Increase: Our temporal analysis shows that, regardless of the region, the rate of meteorite discovery has risen consistently. This suggests that improved documentation and heightened global scientific interest have had a widespread impact.
     - Human Influence: The clustering of finds in certain regions might not only reflect the natural occurrence of meteorites but also the likelihood of their detection. As human migration patterns evolve and population densities increase in particular areas, there is a greater chance of recovering and recording meteorites.
     - This interplay between natural events and anthropogenic factors emphasizes that our understanding of meteorite distribution is partially shaped by our own movement and settlement patterns over time.
